@@ -1,4 +1,4 @@
-# Dev Landing Page by [@flexdinesh](github.com/flexdinesh/dev-landing-page)
+# Dev Landing Page by [@flexdinesh](https://github.com/flexdinesh/dev-landing-page)
 
 Minimal landing page for developers.
 
